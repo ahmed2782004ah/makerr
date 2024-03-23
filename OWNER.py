@@ -6,7 +6,7 @@ from pyrogram import filters
 
 load_dotenv()
 
-OWNER = ["E_Z_9"]
+OWNER = ["K_O_W_4"]
 OWNER_NAME = "𓏺 َِ𝗕َِ𝗲َِ𝗟َِ𝗮َِ𝗟 َِ𝗻َِ𝗢َِ𝘁 َِ𝗦َِ𝗵َِ𝗔َِ𝗱َِ𝗢َِ𝘄 ."
 BOT_TOKEN = getenv("BOT_TOKEN")
 DATABASE = getenv("MONGO_DB_URI", None)
