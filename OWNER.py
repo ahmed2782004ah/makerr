@@ -9,7 +9,7 @@ load_dotenv()
 OWNER = ["K_O_W_4"]
 OWNER_NAME = "𓏺 َِ𝗕َِ𝗲َِ𝗟َِ𝗮َِ𝗟 َِ𝗻َِ𝗢َِ𝘁 َِ𝗦َِ𝗵َِ𝗔َِ𝗱َِ𝗢َِ𝘄 ."
 BOT_TOKEN = getenv("6477407510:AAH7qtd4tabFhx7o5wzwsB-mwUd_TqIozFk")
-DATABASE = getenv("MONGO_DB_URI", None)
+DATABASE = getenv("mongodb+srv://bot_vambir:Al2552001@cluster0.heabj.mongodb.net/vambir_bot?retryWrites=true&w=majority"
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 CHANNEL = "https://t.me/BE_XB"
